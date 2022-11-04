@@ -1,0 +1,17 @@
+ body{
+   display: block;
+    background-color:rgb(143, 188, 174);
+    margin-top: 60px;
+    margin-left: 80px;
+ }
+ .container{
+  height: 100vh;
+  background-position:100% ;
+  background-image:elon6;
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+  box-sizing: border-box;
+  position: relative;
+ }
